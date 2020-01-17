@@ -1,7 +1,7 @@
 # Product Brief
 
 # Problem
-## Problem
+## Definition
 
 *A short, succinct definition of the problem (or job), and why its worth solving for both the user and the business. If you can’t explain this in one or two paragraphs then chances are you don’t yet have a clear understanding of why this is something our customers need.*
 *Tip: Think about what* [*job*](https://jtbd.info/) *the user will be hiring you to serve. You can also frame this using a high level Job Story.*
