@@ -33,7 +33,7 @@
 
 ## Brainstorming
 
-*Consider the existing journey, the pain points, the job stories and how might we to start throwing up ideas on a wall. This idea is all about exploration and exploring all paths and is not low level design thinking. e.g. A solution to getting from point A to point B might be a horse and cart, but it could also be a car, a plane, a bike etc*
+*Consider the existing journey, the pain points, the job stories and how might we to start throwing up ideas on a wall. This idea is all about exploration and exploring all paths and is not low level design thinking. e.g. A solution to getting from point A to point B might be a horse and cart, but it could also be a car, a plane, a bike etc* Pick one or two to focus on moving forward.
 
 ## Design principles
 
@@ -41,7 +41,7 @@
 
 ## Golden path (new experience)
 
-*A user journey map that is the simplest possible path to satisfy the jobs outlined above. Consider the existing journey, the pain points, the job stories and how might we. We will eventually use this path to help us create wireframes.*
+*A user journey map that is the simplest possible path to satisfy the jobs outlined above using the solutions picked in brainstorming. Consider the existing journey, the pain points, the job stories and how might we. We will eventually use this path to help us create wireframes.*
 
 ## Success metrics
 
