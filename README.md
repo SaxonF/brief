@@ -84,4 +84,11 @@
 
 ----------
 # Market
-Bring marketing, support and sales into the conversation early so that everyone is aligned around why this work exists. These departments should start putting together their respective plans around how to best announce and introduce the above releases.
+*Bring marketing, support and sales into the conversation early so that everyone is aligned around why this work exists. These departments should start putting together their respective plans around how to best announce and introduce the above releases.*
+
+## Marketing checklist
+[ ] --
+[ ] --
+
+
+
